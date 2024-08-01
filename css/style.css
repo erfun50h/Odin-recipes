@@ -7,6 +7,18 @@ body {
     color: rgb(233, 233, 233);
 }
 
+.menu {
+    padding: 30px;
+    /* align-content: center; */
+    border: 3px solid goldenrod;
+    text-align: center;
+}
+
+.menu-items {
+    display: inline-block;
+    margin-inline: 20px;
+}
+
 .content {
 
     padding: 20px;
